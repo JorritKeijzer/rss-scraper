@@ -1,0 +1,11 @@
+{
+  "name": "rss-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JorritKeijzer/rss-scraper.git",
+  "author": "Jorrit Keijzer <jorrit@eli5.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

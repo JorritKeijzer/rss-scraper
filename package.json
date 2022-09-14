@@ -5,6 +5,10 @@
   "repository": "https://github.com/JorritKeijzer/rss-scraper.git",
   "author": "Jorrit Keijzer <jorrit@eli5.io>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "scrape": "node index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.19"
   }
